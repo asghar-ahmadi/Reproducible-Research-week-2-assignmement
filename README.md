@@ -1,5 +1,5 @@
 # Reproducible-Research-week-2-assignmement
-## Introduction
+## Introduction of assignment
 
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
