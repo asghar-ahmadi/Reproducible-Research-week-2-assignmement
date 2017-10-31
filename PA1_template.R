@@ -25,7 +25,7 @@ ggplot(data=averages, aes(x=interval, y=steps)) +
 averages[which.max(averages$steps),]
 
 
-## ----how_many_missing----------------------------------------------------
+## ----how_many_missing Value----------------------------------------------------
 missing <- is.na(data$steps)
 # How many missing
 table(missing)
